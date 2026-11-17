@@ -1,2 +1,3 @@
 - Lire le cahier de charges
 -Rediger le plan
+- Tache inutile
